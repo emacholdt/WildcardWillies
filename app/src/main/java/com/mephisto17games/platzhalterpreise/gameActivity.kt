@@ -313,7 +313,7 @@ class gameActivity : AppCompatActivity() {
             172.95,
             0.36,
             259.00,
-            0.55)
+            4.50)
 
         // unversalButton Text -> Guess
         val submitGuessButton = findViewById<Button>(R.id.universalButton)

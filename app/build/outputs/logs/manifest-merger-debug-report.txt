@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:2:1-11:12
 MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:2:1-13:12
@@ -32,25 +32,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ollischeer/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d58f60d6e3ca69c17d6f86fa18a64b1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f172025616c2f07ce6321760a1d5737/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ac92ef12a633332027fb49492457e36d/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:3:11-58
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:3:11-58
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:9:5-20
 MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:11:5-53
@@ -62,51 +62,51 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ollischeer/.
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:10:13-39
 	android:label
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:8:13-45
 	android:roundIcon
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:9:13-58
 	android:icon
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:7:13-47
 	android:allowBackup
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:6:13-39
 	android:theme
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:11:13-44
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:11:13-44
 activity#com.mephisto17games.platzhalterpreise.MainActivity
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:12:9-19:20
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:screenOrientation
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:13:19-55
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:13:19-55
 	android:name
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:15:17-68
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:17:17-76
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:17:27-74
 activity#com.mephisto17games.platzhalterpreise.gameActivity
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:20:9-49
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:20:9-49
 	android:name
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:20:19-47
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:20:19-47
 activity#com.mephisto17games.platzhalterpreise.endActivity
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:21:9-48
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:21:9-48
 	android:name
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:21:19-46
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:21:19-46
 meta-data#preloaded_fonts
-ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:23:9-94
+ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:23:9-94
 	android:resource
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:23:51-92
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:23:51-92
 	android:name
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml:23:20-50
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:23:20-50
 uses-sdk
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:5:5-7:41
@@ -163,13 +163,13 @@ MERGED from [android.arch.core:runtime:1.1.1] /Users/ollischeer/.gradle/caches/t
 MERGED from [android.arch.core:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f172025616c2f07ce6321760a1d5737/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ac92ef12a633332027fb49492457e36d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ac92ef12a633332027fb49492457e36d/AndroidManifest.xml:20:5-44
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
