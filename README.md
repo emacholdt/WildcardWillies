@@ -1,3 +1,5 @@
+![](https://img.itch.zone/aW1nLzE4ODUxMTgucG5n/original/Yrv8Gx.png)
+
 # Wildcard Willies\*
 
 This is the second game made by [Mephisto17Games](mephisto17games.itch.io). [Oliver Scheer](https://github.com/OScheer) and I develeoped WildcardWillies\* for MiniBeansJam3, an 48h GameJam organized by the RocketbeansTV community.
