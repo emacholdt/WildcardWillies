@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Wildcard Willies</string>
+    <string name="_1_player_game">1 Player Start</string>
+    <string name="inhaltuniversalbutton">Next</string>
+    <string name="itemname">ich bin ein ganz langer Artikelname</string>
+    <string name="itemprice">***.**</string>
+    <string name="p1Name">Schmal-Lars</string>
+    <string name="p1Score">17</string>
+    <string name="p2Name">Florentin</string>
+    <string name="p2Score">17</string>
+    <string name="p1Price">10.50</string>
+    <string name="euro">€</string>
+    <string name="eur">EUR</string>
+    <string name="p2Price">08.15</string>
+    <string name="winnerHeadline">Winner:</string>
+    <string name="winnerPlayerName">Lars</string>
+    <string name="winnerScore">117</string>
+    <string name="loserPlayerName">Florentin</string>
+    <string name="loserPlayerScore">0</string>
+    <string name="loserPlayerHeadline">Loser:</string>
+    <string name="enemyHeadline">Enemy:</string>
+    <string name="p1DefaultName">Florentin</string>
+    <string name="playerHeadline">Player</string>
+    <string name="emptyPrice">-</string>
+    <string name="your_guess">your guess</string>
+    <string name="nextRoundText">Next Round</string>
+    <string name="guessText">Guess</string>
+    <string name="startGameText">Play</string>
+    <string name="resultsText">Results</string>
+    <string name="lastRoundText">Last Round</string>
+    <string-array name="larses">
+        <item>Schmal-Lars</item>
+        <item>Lars</item>
+        <item>Breit-Lars</item>
+    </string-array>
+</resources>
