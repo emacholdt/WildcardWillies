@@ -322,6 +322,9 @@ class gameActivity : AppCompatActivity() {
         // Random Start
         var whoFirst = Random.nextInt(1,3)
 
+        // Musik fortsetzen
+        Music.play(this, R.raw.bensound_elevator)
+
 
         // Array mit zufällig gewählten Artikeln aus Liste, ohne Zurücklegen
         var selectedArticles = (0..itemImageArray.size-1).toList()
@@ -465,6 +468,9 @@ class gameActivity : AppCompatActivity() {
                          loserName = player1Name.text.toString()
                          loserScore = player1Score.text.toString()
                     }
+
+                    // Musik pausieren/stoppen
+                    Music.stop(this)
 
                     myIntent.putExtra("winnerName",winnerName)
                     myIntent.putExtra("winnerScore",winnerScore)

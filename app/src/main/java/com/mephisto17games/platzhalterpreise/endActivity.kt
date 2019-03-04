@@ -54,12 +54,16 @@ class endActivity : AppCompatActivity() {
             .streamFor(30, 6000L)
 
         // Song
-        val mp = MediaPlayer.create(this, R.raw.punky_clap)
-        mp.start()
+        //val mp = MediaPlayer.create(this, R.raw.punky_clap)
+        //mp.start()
+        Music.play(this, R.raw.punky_clap)
 
         // OnClickListener:
         returnHomeButton.setOnClickListener(View.OnClickListener {
             val myIntent = Intent(this@endActivity, MainActivity::class.java)
+
+            Music.stop(this)
+
             startActivity(myIntent)
         })
     }

@@ -811,6 +811,7 @@ id loserPlayerScore
 id message
 id middle
 id multiply
+id music
 id never
 id none
 id normal
