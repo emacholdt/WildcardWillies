@@ -1,6 +1,7 @@
 package com.mephisto17games.platzhalterpreise
 
 import android.content.Intent
+import android.content.SharedPreferences
 import android.media.AudioManager
 import android.media.MediaPlayer
 import android.support.v7.app.AppCompatActivity
@@ -38,29 +39,44 @@ class MainActivity : AppCompatActivity() {
         //mp.start()
         Music.play(this, R.raw.bensound_elevator)
 
-        // Musik auf Lautstärke 0 setzen
-        // Get the audio manager system service
-/*        val audioManager: AudioManager = getSystemService(AUDIO_SERVICE) as AudioManager
-        val media_current_volume: Int = audioManager.getStreamVolume(AudioManager.STREAM_MUSIC)
+        // Speichern ob Musik Off aktiviert ist
+        val musicOff: SharedPreferences = getSharedPreferences("musicOff",0)
+        val editor: SharedPreferences.Editor = musicOff.edit()
+        music.isChecked = musicOff.getBoolean("musicOff", false)
+
+        val audioManager: AudioManager = getSystemService(AUDIO_SERVICE) as AudioManager
+        val mediaCurrentVolume: Int = audioManager.getStreamVolume(AudioManager.STREAM_MUSIC)
+        val mediaMinVolume: Int = audioManager.getStreamMinVolume(AudioManager.STREAM_MUSIC)
+
+/*
+        val musicOn: SharedPreferences = getSharedPreferences("musicCurrentVolume", 1)
+        val editorMusicOn: SharedPreferences.Editor = musicOn.edit()
+        val CurrentVolume = musicOn.getInt("musicCurrentVolume", mediaCurrentVolume)
+        editorMusicOn.putInt("musicCurrentVolume", mediaCurrentVolume)
+        editorMusicOn.commit()
+*/
+
         music.setOnClickListener(View.OnClickListener {
             if(music.isChecked){
-                val volumeIndex = 0
                 Music.stop(this)
                 audioManager.setStreamVolume(
                     AudioManager.STREAM_MUSIC, // Stream type
-                    volumeIndex, // Volume index
+                    mediaMinVolume, // Volume index
                     AudioManager.FLAG_SHOW_UI// Flags
                 )
+                editor.putBoolean("musicOff", true)
+                editor.commit()
             }else{
-                val volumeIndex: Int = media_current_volume
                 Music.play(this, R.raw.bensound_elevator)
                 audioManager.setStreamVolume(
                     AudioManager.STREAM_MUSIC, // Stream type
-                    volumeIndex, // Volume index
+                    mediaCurrentVolume, // Volume index
                     AudioManager.FLAG_SHOW_UI// Flags
                 )
+                editor.putBoolean("musicOff", false)
+                editor.commit()
             }
-        })*/
+        })
 
 
         // OnClickListener:
