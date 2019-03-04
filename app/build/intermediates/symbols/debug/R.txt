@@ -944,9 +944,10 @@ int layout support_simple_spinner_dropdown_item 0x7f0b0029
 int mipmap ic_launcher 0x7f0c0000
 int mipmap ic_launcher_foreground 0x7f0c0001
 int mipmap ic_launcher_round 0x7f0c0002
-int raw coin01 0x7f0d0000
-int raw loser01 0x7f0d0001
-int raw verklixx 0x7f0d0002
+int raw bensound_elevator 0x7f0d0000
+int raw coin01 0x7f0d0001
+int raw loser01 0x7f0d0002
+int raw verklixx 0x7f0d0003
 int string _1_player_game 0x7f0e0000
 int string abc_action_bar_home_description 0x7f0e0001
 int string abc_action_bar_up_description 0x7f0e0002

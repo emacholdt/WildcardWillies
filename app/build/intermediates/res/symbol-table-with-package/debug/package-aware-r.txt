@@ -945,6 +945,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+raw bensound_elevator
 raw coin01
 raw loser01
 raw verklixx

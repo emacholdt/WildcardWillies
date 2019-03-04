@@ -1,6 +1,7 @@
 package com.mephisto17games.platzhalterpreise
 
 import android.content.Intent
+import android.media.MediaPlayer
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.transition.Scene
@@ -24,7 +25,12 @@ class MainActivity : AppCompatActivity() {
 
         val player1Name = findViewById<EditText>(R.id.p1DefaultName)
 
-
+        // Musik im Hintergrund
+        // Credits: https://www.bensound.com
+        // The Elevator Bossa Nova
+        val mp = MediaPlayer.create(this, R.raw.bensound_elevator)
+        //val mp = MediaPlayer.create(this, R.raw.verklixx)
+        mp.start()
 
         // OnClickListener:
         startGameButton.setOnClickListener(View.OnClickListener {

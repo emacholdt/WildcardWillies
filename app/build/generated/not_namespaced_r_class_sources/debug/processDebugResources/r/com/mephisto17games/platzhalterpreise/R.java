@@ -3711,9 +3711,10 @@ public final class R {
     public static final int ic_launcher_round=0x7f0c0002;
   }
   public static final class raw {
-    public static final int coin01=0x7f0d0000;
-    public static final int loser01=0x7f0d0001;
-    public static final int verklixx=0x7f0d0002;
+    public static final int bensound_elevator=0x7f0d0000;
+    public static final int coin01=0x7f0d0001;
+    public static final int loser01=0x7f0d0002;
+    public static final int verklixx=0x7f0d0003;
   }
   public static final class string {
     public static final int _1_player_game=0x7f0e0000;
