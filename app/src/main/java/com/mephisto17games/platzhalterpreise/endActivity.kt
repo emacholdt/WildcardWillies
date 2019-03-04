@@ -51,10 +51,10 @@ class endActivity : AppCompatActivity() {
             .addShapes(nl.dionsegijn.konfetti.models.Shape.RECT, nl.dionsegijn.konfetti.models.Shape.CIRCLE)
             .addSizes(Size(12))
             .setPosition(100f, viewKonfetti.width.toFloat(), -50f, -50f)
-            .streamFor(30, 5000L)
+            .streamFor(30, 6000L)
 
         // Song
-        val mp = MediaPlayer.create(this, R.raw.verklixx)
+        val mp = MediaPlayer.create(this, R.raw.punky_clap)
         mp.start()
 
         // OnClickListener:

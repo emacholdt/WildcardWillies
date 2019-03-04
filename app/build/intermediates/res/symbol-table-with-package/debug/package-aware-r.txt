@@ -951,6 +951,7 @@ mipmap ic_launcher_round
 raw bensound_elevator
 raw coin01
 raw loser01
+raw punky_clap
 raw verklixx
 string _1_player_game
 string abc_action_bar_home_description
