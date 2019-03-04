@@ -5,9 +5,10 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
+    ir-eligibility="FIELD_TYPE_CHANGE"
     plugin-version="3.2.1"
-    timestamp="1551049344065"
-    token="8961612726504582993"
+    timestamp="1551703773121"
+    token="1534666531572163263"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
@@ -18,72 +19,119 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="24" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
 
     <artifact
-        location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1551047066370"
+        timestamp="1551702794793"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1551049344065"
+        timestamp="1551702956661"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ollischeer/sharico/miniBeansJam3/WildcardWillies/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1551703614510"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1551703648478"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_TYPE_CHANGE"
+        timestamp="1551703773121"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

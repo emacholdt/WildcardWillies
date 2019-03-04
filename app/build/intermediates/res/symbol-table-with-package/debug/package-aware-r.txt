@@ -687,6 +687,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable m17_w_name
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -786,6 +787,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id info
 id inputPrice
 id inputPriceCurr
@@ -927,6 +929,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_splash
 layout final_score
 layout game_screen
 layout notification_action
