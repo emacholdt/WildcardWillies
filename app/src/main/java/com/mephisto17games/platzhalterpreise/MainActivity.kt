@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
         val startGameButton = findViewById<Button>(R.id.universalButton)
         startGameButton.text = getString(R.string.startGameText)
 
+        val creditsButton = findViewById<Button>(R.id.creditsButton)
+
         val player1Name = findViewById<EditText>(R.id.p1DefaultName)
 
         // Musik im Hintergrund
@@ -51,6 +53,11 @@ class MainActivity : AppCompatActivity() {
             myIntent.putExtra("difficulty",difficulty)
             myIntent.putExtra("rounds", roundsToPlay)
 
+            startActivity(myIntent)
+        })
+
+        creditsButton.setOnClickListener(View.OnClickListener {
+            val myIntent = Intent(this@MainActivity, CreditActivity::class.java)
             startActivity(myIntent)
         })
 

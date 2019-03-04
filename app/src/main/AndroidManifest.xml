@@ -25,6 +25,7 @@
         <activity android:name=".MainActivity"/>
         <activity android:name=".gameActivity"/>
         <activity android:name=".endActivity"/>
+        <activity android:name=".CreditActivity"/>
 
         <meta-data android:name="preloaded_fonts" android:resource="@array/preloaded_fonts"/>
     </application>

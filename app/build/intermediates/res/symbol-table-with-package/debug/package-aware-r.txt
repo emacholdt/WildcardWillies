@@ -740,6 +740,7 @@ id all
 id always
 id appTitle
 id async
+id backButton
 id backgroundBox
 id barrier
 id beginning
@@ -758,7 +759,8 @@ id collapseActionView
 id container
 id content
 id contentPanel
-id credits
+id creditsButton
+id creditsText
 id custom
 id customPanel
 id decor_content_parent
@@ -928,6 +930,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_credits
 layout activity_main
 layout activity_splash
 layout final_score
@@ -990,6 +993,9 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string backButton
+string credits
+string creditsText
 string emptyPrice
 string enemyHeadline
 string eur

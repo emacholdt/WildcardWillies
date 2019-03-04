@@ -28,6 +28,9 @@
     <string name="startGameText">Play</string>
     <string name="resultsText">Results</string>
     <string name="lastRoundText">Last Round</string>
+    <string name="credits">Credits</string>
+    <string name="backButton">Back</string>
+    <string name="creditsText">Credits</string>
     <string-array name="larses">
         <item>Schmal-Lars</item>
         <item>Lars</item>

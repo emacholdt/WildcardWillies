@@ -1,4 +1,4 @@
-#Mon Mar 04 14:29:14 CET 2019
+#Mon Mar 04 16:44:36 CET 2019
 base.0=/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/transforms/dexMerger/debug/7
 path.0=classes.dex
 renamed.0=classes.dex

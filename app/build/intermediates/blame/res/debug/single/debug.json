@@ -876,6 +876,10 @@
         "source": "/Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/res/merged/debug/layout_activity_credits.xml.flat",
+        "source": "/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/res/layout/activity_credits.xml"
+    },
+    {
         "merged": "/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "/Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },

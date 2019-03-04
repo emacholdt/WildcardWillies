@@ -37,6 +37,7 @@
         <activity android:name="com.mephisto17games.platzhalterpreise.MainActivity" />
         <activity android:name="com.mephisto17games.platzhalterpreise.gameActivity" />
         <activity android:name="com.mephisto17games.platzhalterpreise.endActivity" />
+        <activity android:name="com.mephisto17games.platzhalterpreise.CreditActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
