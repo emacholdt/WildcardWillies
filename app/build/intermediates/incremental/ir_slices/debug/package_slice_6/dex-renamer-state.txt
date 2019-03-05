@@ -1,4 +1,4 @@
-#Tue Mar 05 10:34:34 CET 2019
-base.0=/Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/build/intermediates/transforms/dexMerger/debug/6
+#Tue Mar 05 10:53:24 CET 2019
+base.0=/Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/build/intermediates/transforms/dexMerger/debug/6
 path.0=classes.dex
 renamed.0=classes.dex
