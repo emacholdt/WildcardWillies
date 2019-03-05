@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
         // Abfragen ob Musik Off -> true
         val musicOff: SharedPreferences = getSharedPreferences("musicOff",0)
         val editor: SharedPreferences.Editor = musicOff.edit()
-        music.isChecked = musicOff.getBoolean("musicOff", false)
+        music.isChecked = musicOff.getBoolean("musicOff", true)
 
         // Zugriff auf Audioplayer
         val audioManager: AudioManager = getSystemService(AUDIO_SERVICE) as AudioManager
@@ -56,14 +56,14 @@ class MainActivity : AppCompatActivity() {
 
         // Aktivierung des Switch und speichern in Prefs
         music.setOnClickListener(View.OnClickListener {
-            if(music.isChecked){
+            if(!music.isChecked){
                 Music.stop(this)
                 audioManager.setStreamVolume(
                     AudioManager.STREAM_MUSIC, // Stream type
                     mediaMinVolume, // Volume index
                     AudioManager.FLAG_REMOVE_SOUND_AND_VIBRATE// Flags
                 )
-                editor.putBoolean("musicOff", true)
+                editor.putBoolean("musicOff", false)
                 editor.commit()
             }else{
                 Music.play(this, R.raw.bensound_elevator)
@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
                     media50PercentVolume, // Volume index
                     AudioManager.FLAG_PLAY_SOUND// Flags
                 )
-                editor.putBoolean("musicOff", false)
+                editor.putBoolean("musicOff", true)
                 editor.commit()
             }
         })
