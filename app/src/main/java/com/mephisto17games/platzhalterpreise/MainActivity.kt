@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
         val creditsButton = findViewById<Button>(R.id.creditsButton)
 
-        /*val howToPlayButton = findViewById<Button>(R.id.howToPlayButton)*/
+        val howToPlayButton = findViewById<Button>(R.id.howToPlayButton)
 
         val player1Name = findViewById<EditText>(R.id.p1DefaultName)
 
@@ -109,16 +109,21 @@ class MainActivity : AppCompatActivity() {
         })
 
         // Click on How to play?
-        /*howToPlayButton.setOnClickListener(View.OnClickListener {
-            Toast.makeText(this, "1. Choose your player name and select the difficulty by choosing an easy (Schmal-Lars), " +
+        howToPlayButton.setOnClickListener(View.OnClickListener {
+            /*Toast.makeText(this, "1. Choose your player name and select the difficulty by choosing an easy (Schmal-Lars), " +
                     "normal (Lars), or hard (Breit-Lars) opponent. \n" +
                     "2. Try to guess the \"original\" price as close as possible.\n" +
                     "3. Your bet was closer than the CPU's? Bravo, you earned 1 point. Guess the price correctly to earn the price in " +
                     "points (up to 1000)! \n" +
                     "4. You and Lars take turns guessing first. \n" +
                     "5. Collect more points than your opponent in a game of 5 rounds, or extend to a 15 round marathon.",
-                Toast.LENGTH_LONG).show()
-        })*/
+                Toast.LENGTH_LONG).show()*/
+            transparentOverlay.visibility = if (transparentOverlay.visibility == View.VISIBLE){
+                View.INVISIBLE
+            } else{
+                View.VISIBLE
+            }
+        })
 
     }
 
