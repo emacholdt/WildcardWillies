@@ -1,185 +1,185 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:2:1-11:12
-MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4b6927da177cc35df6f840f50c1ba279/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6399b063c758a6f64a3c2d5e532f941e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1832fa0aded0f4fb2751639fd848b73f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e20a4e84359c1691e5737f06c5c3ef48/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/82813b0da25a0f0b9140532855396dda/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4e285b1e10d6690982dc76edd67b229f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/740411af46327f654aaa2bb968f6d5b9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4a75cf312b9b426e3556f405e49099c4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bb1037c068c1c487466895be20577b72/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0c88bc7a7d0ffa49d867e5cc95570c32/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49b2ea70997f0656b29628f26b41605e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/50f0f78ae8bc815246a8863901f64798/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/feb01b875a5b89a2ea8f18b581befcb6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bcb7b7086c6d68345ced4c506d2b31b/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3030e3fd8c51d3ae3a11d99381d8074c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d6e4b94d5eeddb5b1be3d44a3fdb7fe2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9aaa9c67da333597797bfe0831f0effe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a728312697396fd9e665dbcda886123b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d64189b56bf37da43e8da070faa78343/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/47318a190d6b64cb688cf781f994db82/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a7d95f4460e74b666217bd35e78396ad/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d58f60d6e3ca69c17d6f86fa18a64b1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f172025616c2f07ce6321760a1d5737/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ac92ef12a633332027fb49492457e36d/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ae7f81e5268c01f91d12b88d796644c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/411eeef2ac8c33a300863d88a27dbdda/AndroidManifest.xml:2:1-11:12
+MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/85813e75f3463bf96df42ca29c57c0c4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/704061892e795db3e4aef4efbc86c80e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/84799e7f060e4b20dc181a8bb5626327/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/174cd8c609a4728706aff1e5777fb968/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ec232416996d1a4513c46386856a02bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2182b5a8265392ce587b1b5aea6c82bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b45ad0cde0ace23704e4c241256e5cbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9cc580ffdd0a3ac630cf9ded0e51302b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5ac3a721d093619da3df7d54da469b6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a53c063a3b7b7b0290dec16a51129f37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7dbafed564a045af882bc0b3141e59ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9314d58d411317b8fb22bde651e4e44c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a964da5786485606b5227cd7e1fef3fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6b452acd4bc11e8aec6aa9ee48f38dc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ab65d8e0445710c091749ae95d4f8b46/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1a1e65b3d87d94c2a72bea75a015ebd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2833873bd3aebbd537457693dec7affc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5bb14315139cc00bc24648633d2f628c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/471137e25cd219ce5620a7bb8de764d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3856bd5a12f3310478d7f10903debfe3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f7451d39b8d142a1cfaa9548b63c280e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/415ff5bd4601817f3ed522cc7e85f9b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d30ba9d71d587dd9457afc5532440bdc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2a4d987e2cbeb805c2ffd2dcb5c1687c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8899c13abe3a9e71fc0fb0b097c74999/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4cab08217b6ae527b7c676143b2cc7b5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:3:11-58
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:3:11-58
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:5:5-31:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:9:5-20
-MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:11:5-53
-MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:11:5-53
-MERGED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bcb7b7086c6d68345ced4c506d2b31b/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bcb7b7086c6d68345ced4c506d2b31b/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/411eeef2ac8c33a300863d88a27dbdda/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/411eeef2ac8c33a300863d88a27dbdda/AndroidManifest.xml:9:5-20
+MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/85813e75f3463bf96df42ca29c57c0c4/AndroidManifest.xml:11:5-53
+MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/85813e75f3463bf96df42ca29c57c0c4/AndroidManifest.xml:11:5-53
+MERGED from [com.android.support:support-compat:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ab65d8e0445710c091749ae95d4f8b46/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ab65d8e0445710c091749ae95d4f8b46/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1a1e65b3d87d94c2a72bea75a015ebd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1a1e65b3d87d94c2a72bea75a015ebd/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ab65d8e0445710c091749ae95d4f8b46/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:10:13-39
 	android:label
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:8:13-45
 	android:roundIcon
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:9:13-58
 	android:icon
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:7:13-47
 	android:allowBackup
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:6:13-39
 	android:theme
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:11:13-44
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:11:13-44
 activity#com.mephisto17games.platzhalterpreise.SplashActivity
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:12:9-24:20
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:12:9-24:20
 	android:label
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:14:19-51
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:14:19-51
 	android:configChanges
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:13:19-80
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:13:19-80
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:12:19-49
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:12:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:20:17-68
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:20:17-68
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:22:17-76
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:22:17-76
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:22:27-74
 activity#com.mephisto17games.platzhalterpreise.MainActivity
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:25:9-49
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:25:9-49
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:25:19-47
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:25:19-47
 activity#com.mephisto17games.platzhalterpreise.gameActivity
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:26:9-49
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:26:9-49
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:26:19-47
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:26:19-47
 activity#com.mephisto17games.platzhalterpreise.endActivity
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:27:9-48
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:27:9-48
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:27:19-46
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:27:19-46
 activity#com.mephisto17games.platzhalterpreise.CreditActivity
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:28:9-51
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:28:9-51
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:28:19-49
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:28:19-49
 meta-data#preloaded_fonts
-ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:30:9-94
+ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:30:9-94
 	android:resource
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:30:51-92
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:30:51-92
 	android:name
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml:30:20-50
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml:30:20-50
 uses-sdk
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92ef6d7478192eebf8346c30227d2b3a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/892db6baca1a585f656f8f3b9917847b/AndroidManifest.xml:5:5-7:41
-MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:7:5-9:41
-MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/c2e8d2ae1f18fee2d6c37c44217bc054/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4b6927da177cc35df6f840f50c1ba279/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4b6927da177cc35df6f840f50c1ba279/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6399b063c758a6f64a3c2d5e532f941e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6399b063c758a6f64a3c2d5e532f941e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1832fa0aded0f4fb2751639fd848b73f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1832fa0aded0f4fb2751639fd848b73f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e20a4e84359c1691e5737f06c5c3ef48/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e20a4e84359c1691e5737f06c5c3ef48/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/82813b0da25a0f0b9140532855396dda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/82813b0da25a0f0b9140532855396dda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4e285b1e10d6690982dc76edd67b229f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4e285b1e10d6690982dc76edd67b229f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/740411af46327f654aaa2bb968f6d5b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/740411af46327f654aaa2bb968f6d5b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4a75cf312b9b426e3556f405e49099c4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4a75cf312b9b426e3556f405e49099c4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bb1037c068c1c487466895be20577b72/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bb1037c068c1c487466895be20577b72/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0c88bc7a7d0ffa49d867e5cc95570c32/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0c88bc7a7d0ffa49d867e5cc95570c32/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49b2ea70997f0656b29628f26b41605e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49b2ea70997f0656b29628f26b41605e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/50f0f78ae8bc815246a8863901f64798/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/50f0f78ae8bc815246a8863901f64798/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/feb01b875a5b89a2ea8f18b581befcb6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/feb01b875a5b89a2ea8f18b581befcb6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb5d7f95301b048d815712793afc542/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bcb7b7086c6d68345ced4c506d2b31b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bcb7b7086c6d68345ced4c506d2b31b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3030e3fd8c51d3ae3a11d99381d8074c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3030e3fd8c51d3ae3a11d99381d8074c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d6e4b94d5eeddb5b1be3d44a3fdb7fe2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d6e4b94d5eeddb5b1be3d44a3fdb7fe2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9aaa9c67da333597797bfe0831f0effe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9aaa9c67da333597797bfe0831f0effe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a728312697396fd9e665dbcda886123b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a728312697396fd9e665dbcda886123b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d64189b56bf37da43e8da070faa78343/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d64189b56bf37da43e8da070faa78343/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/47318a190d6b64cb688cf781f994db82/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/47318a190d6b64cb688cf781f994db82/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a7d95f4460e74b666217bd35e78396ad/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a7d95f4460e74b666217bd35e78396ad/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d58f60d6e3ca69c17d6f86fa18a64b1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d58f60d6e3ca69c17d6f86fa18a64b1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f172025616c2f07ce6321760a1d5737/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f172025616c2f07ce6321760a1d5737/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ac92ef12a633332027fb49492457e36d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/ollischeer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ac92ef12a633332027fb49492457e36d/AndroidManifest.xml:20:5-44
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ae7f81e5268c01f91d12b88d796644c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ae7f81e5268c01f91d12b88d796644c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/411eeef2ac8c33a300863d88a27dbdda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/411eeef2ac8c33a300863d88a27dbdda/AndroidManifest.xml:5:5-7:41
+MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/85813e75f3463bf96df42ca29c57c0c4/AndroidManifest.xml:7:5-9:41
+MERGED from [nl.dionsegijn:konfetti:1.1.2] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.2.aar/85813e75f3463bf96df42ca29c57c0c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/704061892e795db3e4aef4efbc86c80e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/704061892e795db3e4aef4efbc86c80e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/84799e7f060e4b20dc181a8bb5626327/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/84799e7f060e4b20dc181a8bb5626327/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/174cd8c609a4728706aff1e5777fb968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/174cd8c609a4728706aff1e5777fb968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ec232416996d1a4513c46386856a02bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ec232416996d1a4513c46386856a02bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2182b5a8265392ce587b1b5aea6c82bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2182b5a8265392ce587b1b5aea6c82bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b45ad0cde0ace23704e4c241256e5cbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b45ad0cde0ace23704e4c241256e5cbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9cc580ffdd0a3ac630cf9ded0e51302b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9cc580ffdd0a3ac630cf9ded0e51302b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5ac3a721d093619da3df7d54da469b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5ac3a721d093619da3df7d54da469b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a53c063a3b7b7b0290dec16a51129f37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a53c063a3b7b7b0290dec16a51129f37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7dbafed564a045af882bc0b3141e59ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7dbafed564a045af882bc0b3141e59ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9314d58d411317b8fb22bde651e4e44c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9314d58d411317b8fb22bde651e4e44c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a964da5786485606b5227cd7e1fef3fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a964da5786485606b5227cd7e1fef3fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6b452acd4bc11e8aec6aa9ee48f38dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6b452acd4bc11e8aec6aa9ee48f38dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ab65d8e0445710c091749ae95d4f8b46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ab65d8e0445710c091749ae95d4f8b46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1a1e65b3d87d94c2a72bea75a015ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1a1e65b3d87d94c2a72bea75a015ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2833873bd3aebbd537457693dec7affc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2833873bd3aebbd537457693dec7affc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5bb14315139cc00bc24648633d2f628c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5bb14315139cc00bc24648633d2f628c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/471137e25cd219ce5620a7bb8de764d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/471137e25cd219ce5620a7bb8de764d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3856bd5a12f3310478d7f10903debfe3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3856bd5a12f3310478d7f10903debfe3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f7451d39b8d142a1cfaa9548b63c280e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f7451d39b8d142a1cfaa9548b63c280e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/415ff5bd4601817f3ed522cc7e85f9b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/415ff5bd4601817f3ed522cc7e85f9b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d30ba9d71d587dd9457afc5532440bdc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d30ba9d71d587dd9457afc5532440bdc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2a4d987e2cbeb805c2ffd2dcb5c1687c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2a4d987e2cbeb805c2ffd2dcb5c1687c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8899c13abe3a9e71fc0fb0b097c74999/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8899c13abe3a9e71fc0fb0b097c74999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4cab08217b6ae527b7c676143b2cc7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/enrico_macholdt/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4cab08217b6ae527b7c676143b2cc7b5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ollischeer/Desktop/AppEntwicklung/Android/Apps/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/enrico_macholdt/nextcloudpi/projects/WildcardWillies/app/src/main/AndroidManifest.xml
