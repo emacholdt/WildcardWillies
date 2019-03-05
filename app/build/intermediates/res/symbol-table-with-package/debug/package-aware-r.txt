@@ -811,6 +811,7 @@ id loserPlayerScore
 id message
 id middle
 id multiply
+id music
 id never
 id none
 id normal
@@ -1002,6 +1003,7 @@ string enemyHeadline
 string eur
 string euro
 string guessText
+string how_to_play_Button
 string inhaltuniversalbutton
 string itemname
 string itemprice

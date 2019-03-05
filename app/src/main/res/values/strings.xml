@@ -31,6 +31,7 @@
     <string name="credits">Credits</string>
     <string name="backButton">Back</string>
     <string name="creditsText">Credits</string>
+    <string name="how_to_play_Button">How to play?</string>
     <string-array name="larses">
         <item>Schmal-Lars</item>
         <item>Lars</item>
